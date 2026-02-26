@@ -6,6 +6,7 @@ Attribution:
 - The theme was created and packaged by [@OldJobobo](https://github.com/OldJobobo).
 - Palette inspiration and feedback by [@niraletter](https://github.com/niraletter).
 
+![Omakasui Retro 82 preview](preview.png)
 
 ## Install
 
